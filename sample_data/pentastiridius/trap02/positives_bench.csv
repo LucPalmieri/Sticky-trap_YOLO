@@ -1,0 +1,2 @@
+cropnumber,label,confidence,box_x0,box_y0,box_x1,box_y1,centre_x_px,centre_y_px,pct_across,pct_down
+175,Pentastiridius,0.7287,9280,7908,9816,8464,9548,8186,30.7,33.1

@@ -1,0 +1,22 @@
+# model weights & training data (not redistributed - see README)
+*.pt
+data/
+runs/
+flat-bug/
+
+# pipeline outputs
+out/
+results/
+logs/
+out.csv
+sample_data/scans_demo/out/
+
+# raw scans
+*.tif
+*.tiff
+
+# python / env
+__pycache__/
+*.pyc
+.venv/
+venv/

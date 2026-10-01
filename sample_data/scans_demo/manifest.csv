@@ -1,0 +1,7 @@
+file,source_scan,anchor_cropnumber,anchor_confidence,anchor_pos_in_crop_px,crop_origin_in_source_px,size_mb
+trap01.jpg,trap01_sample.jpg,183,0.7062,"1500,1500","21036,18596",0.95
+trap02.jpg,trap02_sample.jpg,175,0.7287,"1500,1500","8048,6686",1.24
+trap03.jpg,trap03_sample.jpg,72,0.723,"1500,1500","13748,7120",0.87
+trap04.jpg,trap04_sample.jpg,308,0.9714,"1500,1500","22420,10212",0.9
+trap05.jpg,trap05_sample.jpg,90,0.9944,"1500,1500","17140,12764",0.99
+trap06.jpg,trap06_sample.jpg,95,0.9293,"1500,1500","12500,11080",0.82

@@ -65,7 +65,7 @@ Tested on Linux (Ubuntu / WSL2), Python 3.12, CPU only. A GPU is
 recommended for real scans (see `environment/setup_flatbug_env.sh`).
 
 ```bash
-git clone <this-repo-url> sticky-trap && cd sticky-trap
+git clone https://github.com/LucPalmieri/Sticky-trap_YOLO.git && cd Sticky-trap_YOLO
 python3 -m venv .venv && source .venv/bin/activate
 
 # CPU build of PyTorch (skip for GPU and install the CUDA build instead)

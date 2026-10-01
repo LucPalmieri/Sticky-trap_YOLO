@@ -1,0 +1,11 @@
+# CPU-only environment for everything downstream of flatbug:
+# classify_crops.py, copy_positives.py, highlight_positives.py,
+# resolve_crop_index.py, build_card_level_split.py (and training, slowly).
+# Does NOT install flatbug - see the main README for that.
+#
+# Verified on Python 3.12 with both ultralytics 8.3.124 (the newest flat-bug
+# allows) and 8.4.98 (used to train the classifier).
+ultralytics>=8.3.124,<=8.4.98
+pillow>=10.0
+pandas>=2.0
+scikit-learn>=1.3

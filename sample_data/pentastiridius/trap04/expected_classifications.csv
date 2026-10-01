@@ -1,0 +1,12 @@
+image_file,label,confidence,top3,flag
+crop_trap04_CROPNUMBER_198_UUID_fb347136-e0df-440a-9981-379d46c6fd69.png,uncertain,0.4166,Artefact:0.42; Hymenoptera:0.38; Other insects:0.17,review
+crop_trap04_CROPNUMBER_20_UUID_fb347136-e0df-440a-9981-379d46c6fd69.png,Fly,0.9998,Fly:1.00; Other insects:0.00; Hymenoptera:0.00,
+crop_trap04_CROPNUMBER_233_UUID_fb347136-e0df-440a-9981-379d46c6fd69.png,Pentastiridius,0.5319,Pentastiridius:0.53; Artefact:0.43; Other insects:0.02,TARGET
+crop_trap04_CROPNUMBER_246_UUID_fb347136-e0df-440a-9981-379d46c6fd69.png,Fly,0.9056,Fly:0.91; Artefact:0.07; Other insects:0.01,
+crop_trap04_CROPNUMBER_266_UUID_fb347136-e0df-440a-9981-379d46c6fd69.png,Pentastiridius,0.6677,Pentastiridius:0.67; Other insects:0.15; Artefact:0.09,TARGET
+crop_trap04_CROPNUMBER_292_UUID_fb347136-e0df-440a-9981-379d46c6fd69.png,Artefact,0.9792,Artefact:0.98; Beetle:0.01; Other insects:0.00,
+crop_trap04_CROPNUMBER_308_UUID_fb347136-e0df-440a-9981-379d46c6fd69.png,Pentastiridius,0.9714,Pentastiridius:0.97; Artefact:0.03; Other insects:0.00,TARGET
+crop_trap04_CROPNUMBER_328_UUID_fb347136-e0df-440a-9981-379d46c6fd69.png,Artefact,1.0000,Artefact:1.00; Hymenoptera:0.00; Fly:0.00,
+crop_trap04_CROPNUMBER_32_UUID_fb347136-e0df-440a-9981-379d46c6fd69.png,Fly,0.9681,Fly:0.97; Beetle:0.02; Other insects:0.01,
+crop_trap04_CROPNUMBER_342_UUID_fb347136-e0df-440a-9981-379d46c6fd69.png,Artefact,0.9997,Artefact:1.00; Thrips:0.00; Beetle:0.00,
+crop_trap04_CROPNUMBER_54_UUID_fb347136-e0df-440a-9981-379d46c6fd69.png,Fly,0.9996,Fly:1.00; Hymenoptera:0.00; Other insects:0.00,
